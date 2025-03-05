@@ -13,3 +13,25 @@ header {
 section {
     padding: 10px;
 }
+.container {
+    text-align: center;
+}
+
+.centered-image {
+    display: block;
+    margin: 0 auto;
+    width: 150px; /* Adjust as needed */
+    height: auto;
+}
+
+.centered-link {
+    display: block;
+    margin-top: 20px;
+    font-size: 18px;
+    color: #0366d6;
+    text-decoration: none;
+}
+
+.centered-link:hover {
+    text-decoration: underline;
+}
